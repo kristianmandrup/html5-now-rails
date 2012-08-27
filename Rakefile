@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "html5-now-rails"
   gem.homepage = "http://github.com/kristianmandrup/html5-now-rails"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{HTML5-Now packaged for Rails asset pipeline}
+  gem.description = %Q{USe HTML5 in your Rails app. Themes included ;)}
   gem.email = "kmandrup@gmail.com"
   gem.authors = ["Kristian Mandrup"]
   # dependencies defined in Gemfile
