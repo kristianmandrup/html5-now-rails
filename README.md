@@ -10,6 +10,7 @@ bundle and use...
 
 ```text
 //= require html5-now/html5-now
+//= require html5-now/html5.min
 ```
 
 Note: `html5-now.js` has been patched in order to load the themes from `/assets/html5-now`. Hopefully it works :)
